@@ -18,8 +18,8 @@ LUEUR is a fictional brand created for this design study. It is not a real brand
 |---|---|
 | **Brand** | LUEUR |
 | **Persona** | trend |
-| **Live Site** | [design.apparel-trend.riumu.net](http://design.apparel-trend.riumu.net/) |
-| **Custom Domain** | `design.apparel-trend.riumu.net` *(HTTPS certificate pending)* |
+| **Live Site** | [design.apparel-trend.riumu.net](https://design.apparel-trend.riumu.net/) |
+| **Custom Domain** | `design.apparel-trend.riumu.net` |
 
 ## Design Concept
 
@@ -63,8 +63,8 @@ LUEURは、このデザイン研究のために作成した架空ブランドで
 |---|---|
 | **ブランド** | LUEUR（ルアー） |
 | **ペルソナ** | trend |
-| **公開URL** | [design.apparel-trend.riumu.net](http://design.apparel-trend.riumu.net/) |
-| **独自ドメイン** | `design.apparel-trend.riumu.net` *（HTTPS証明書発行待ち）* |
+| **公開URL** | [design.apparel-trend.riumu.net](https://design.apparel-trend.riumu.net/) |
+| **独自ドメイン** | `design.apparel-trend.riumu.net` |
 
 ## デザインコンセプト
 
