@@ -141,7 +141,7 @@
     }
     h1 {
       font-family: var(--font-display);
-      font-size: clamp(5rem, 16vw, 14rem);
+      font-size: clamp(5rem, 11vw, 10rem);
       font-weight: 600;
       line-height: .78;
       letter-spacing: 0;
@@ -376,6 +376,7 @@
     @media (max-width: 760px) {
       .nav-side:first-child a:nth-child(n+2), .nav-side:last-child a:first-child { display: none; }
       .hero { grid-template-columns: 1fr; padding-top: 6rem; }
+      h1 { font-size: clamp(5rem, 16vw, 14rem); }
       .hero-photo { order: -1; min-height: 340px; }
       .section-head { display: block; }
       .arrivals-grid { grid-template-columns: repeat(2, 1fr); gap: .9rem; }
