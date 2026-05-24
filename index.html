@@ -168,6 +168,7 @@
       letter-spacing: .16em;
       text-transform: uppercase;
       font-weight: 700;
+      white-space: nowrap;
       transition: transform .35s var(--ease), background .35s;
     }
     .button:hover { transform: translateY(-2px); background: #fff; }
@@ -278,8 +279,8 @@
       padding-top: .9rem;
       font-size: .86rem;
     }
-    .product-name { font-weight: 700; }
-    .price { color: var(--fg-muted); }
+    .product-name { font-weight: 700; white-space: nowrap; }
+    .price { color: var(--fg-muted); white-space: nowrap; }
     .marquee {
       overflow: hidden;
       padding: 1rem 0;
@@ -367,6 +368,7 @@
       background: transparent;
       color: var(--accent-deep);
       font-weight: 700;
+      white-space: nowrap;
       letter-spacing: .12em;
       cursor: pointer;
     }
